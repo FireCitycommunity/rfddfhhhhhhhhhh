@@ -1,1 +1,1 @@
-eyzalts: node app.js
+firebot: node index.js
